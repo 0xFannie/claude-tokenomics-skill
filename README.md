@@ -133,7 +133,7 @@ Open an issue or PR — accuracy is the primary design goal of this skill.
 
 ## Author
 
-Built by **[Xifang Zhang (芳程式 | XiØ)](https://xifangzhang.work)** — fintech & Web3 PM with 8+ years across Tencent, FSL/STEPN, and BitGo.  
+Built by **[Xifang Zhang)](https://xifangzhang.work)** — fintech & Web3 PM with 8+ years across IBM, Wanxiang Blockchain/Hashkey, Tencent, FSL/STEPN, and BitGo.  
 GitHub: [@0xFannie](https://github.com/0xFannie)
 
 ---
